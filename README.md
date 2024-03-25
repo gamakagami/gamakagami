@@ -41,4 +41,7 @@
 
 <img src="https://raw.githubusercontent.com/gamakagami/gamakagami/output/snake.svg" alt="Snake animation" />
 
+<p><a href="https://ko-fi.com/Gam"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Gam" /></a></p><br><br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamakagami&" alt="gamakagami" /></p>
 ###
