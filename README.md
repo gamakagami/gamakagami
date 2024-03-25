@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gamakagami&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gamakagami&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamakagami&" alt="gamakagami" /></p>
 ###
 
 <img align="right" height="150" src="ueno.jpg"  />
@@ -43,5 +43,3 @@
 
 <p><a href="https://ko-fi.com/Gam"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Gam" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamakagami&" alt="gamakagami" /></p>
-###
