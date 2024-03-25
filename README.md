@@ -24,6 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+
+  <p><a href="https://ko-fi.com/Gam"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Gam" /></a></p><br><br>
 </div>
 
 ###
@@ -34,5 +36,5 @@
 <br clear="both">
 
 
-<p><a href="https://ko-fi.com/Gam"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Gam" /></a></p><br><br>
+
 
