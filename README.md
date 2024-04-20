@@ -1,4 +1,4 @@
-<h2 align="left">Konnichiwa 👋!</h2>
+<h2 align="left">Hello 👋!</h2>
 
 ###
 
