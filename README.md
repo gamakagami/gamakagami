@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="amy karmis.jpg"/>
+<img align="right" height="250" src="amy karmis.jpg"/>
 
 ###
 
