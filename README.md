@@ -2,16 +2,17 @@
 
 ###
 
-<div align="center">
+<div style="display: flex;">
+  <div style="flex: 80%; padding: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=gamakagami&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gamakagami&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamakagami&theme=dracula" alt="gamakagami" /></p>
 </div>
 
 ###
-
+<div style="flex: 20%; padding: 10px;>
 <img align="right" height="250" src="amy karmis.jpg"/>
-
+</div>
 ###
 
 <div align="left">
