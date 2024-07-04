@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋!</h2>
+<h2 align="left">Hello 👋! I'm Gabriel Anderson</h2>
 
 ###
 
@@ -21,7 +21,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <br><br><br>
-  <p> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Gam" /></p><br><br>
 </div>
 
 ###
