@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="ueno.jpg"/>
+<img align="right" height="150" src="amy karmis.jpg"/>
 
 ###
 
