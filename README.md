@@ -1,9 +1,9 @@
 # Hi, I'm Gamakagami 👋
 
-I'm a 17-year-old student at Binus University, passionate about software engineering and technology. I'm currently learning and building my skills in:
+I'm a 18-year-old student at Binus University, passionate about software engineering and technology. I'm currently learning and building my skills in:
 
-- **Languages & Frameworks:** Python, Java, JavaScript, SQL, C#
-- **Web Development:** MERN Stack (MongoDB, Express.js, React, Node.js), HTML, CSS, Tailwind CSS
+- **Languages & Frameworks:** Python, Java, JavaScript, MySQL, PostgreSQL, Firebase, C#, Typescript
+- **Web Development:** MERN Stack (MongoDB, Express.js, React, Node.js), HTML, CSS, Tailwind CSS, Elysia.js, Next.js
 
 ## 🚀 Projects
 
