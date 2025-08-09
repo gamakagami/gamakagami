@@ -59,7 +59,9 @@ I code in:
    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="nextjs logo"  />
     <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elysiajs/elysiajs-original.svg" height="40" alt="nextjs logo"  />
+  <a href="https://logowik.com/elysiajs-logo-vector-71139.html" target="_blank">
+  <img src="https://logowik.com/content/uploads/images/elysiajs9184.logowik.com.webp" alt="ElysiaJS Logo" height="40">
+</a>
 </div>
 
 ## 🚀 Projects
