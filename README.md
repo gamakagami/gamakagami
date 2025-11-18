@@ -70,23 +70,6 @@
 
 ###
 
-<h2 align="left">📊 GitHub Stats</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gamakagami&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gamakagami&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamakagami&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
-</div>
-
-###
-
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gamakagami&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 </div>
