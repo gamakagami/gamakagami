@@ -1,4 +1,10 @@
-<img src="./banner.jpg" alt="LinkedIn Banner" width="100%" />
+<img src="./Banner.png" alt="LinkedIn Banner" width="100%" />
+
+###
+
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=gamakagami&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</div>
 
 ###
 
@@ -64,11 +70,42 @@
 
 ###
 
+<h2 align="left">📊 GitHub Stats</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gamakagami&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gamakagami&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamakagami&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gamakagami&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+</div>
+
+###
+
 <h2 align="left">📫 Let's Connect</h2>
 
 ###
 
-<p align="left">📧 Email: Gab.anderson7779@gmail.com<br>💼 LinkedIn: linkedin.com/in/gabriel-anderson777<br>📍 Location: Jakarta, Indonesia</p>
+<div align="left">
+  <a href="mailto:Gab.anderson7779@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+  <a href="https://linkedin.com/in/gabriel-anderson777" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <img src="https://img.shields.io/badge/Jakarta,_Indonesia-FF5733?style=for-the-badge&logo=google-maps&logoColor=white" alt="location" />
+</div>
 
 ###
 
