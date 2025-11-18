@@ -70,10 +70,6 @@
 
 ###
 
-<h2 align="left">📊 GitHub Stats</h2>
-
-###
-
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gamakagami&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 </div>
