@@ -1,7 +1,23 @@
-# Hi, I'm Gamakagami 👋
+<h1 align="left">Hey 👋</h1>
 
-I'm an 18-year-old student at Binus University, passionate about software engineering and technology.
-I code in:
+###
+
+<p align="left">My name is Gabriel Anderson and I'm a Full-Stack Software Engineer studying Computer Science at BINUS University in Jakarta.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Currently creating scalable web applications and AI-powered solutions<br>📚 Currently learning advanced Docker orchestration and cloud architecture<br>🎯 Goals: Contributing to open-source projects and building impactful products<br>🎲 Fun fact: I increased client bookings by 50% with my first freelance project</p>
+
+###
+
+<h2 align="left">Tech Stack</h2>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -39,53 +55,19 @@ I code in:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="40" alt="nextjs logo"  />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="nextjs logo"  />
-    <img width="12" />
-  <a href="https://logowik.com/elysiajs-logo-vector-71139.html" target="_blank">
-  <img src="https://logowik.com/content/uploads/images/elysiajs9184.logowik.com.webp" alt="ElysiaJS Logo" height="40">
-</a>
 </div>
 
-## 🚀 Projects
+###
 
-*Coming soon! Placeholder for future projects. Watch this space for updates as I build and share my work.*
+<h2 align="left">Let's Connect</h2>
 
-## 📚 Education
+###
 
-- **Binus University**  
-  Student (Current)
+<p align="left">Email: Gab.anderson7779@gmail.com<br>LinkedIn: linkedin.com/in/gabriel-anderson777<br>Location: Jakarta, Indonesia</p>
 
-## 📄 Experience
+###
 
-*Placeholder for internships, part-time jobs, or freelance work. I'll update this as I gain more experience.*
+<p align="left">💼 Open to freelance opportunities and collaboration on innovative projects!</p>
 
-## 🎯 Interests
-
-- Coding and software development
-- Playing badminton regularly 🏸
-
-## 📫 Get in touch
-
-Feel free to connect with me as I share my coding journey and projects!
-
----
-
-*This is a placeholder portfolio. More updates and content will be added soon!*
+###
