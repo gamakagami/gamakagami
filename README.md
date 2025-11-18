@@ -1,4 +1,8 @@
-<h1 align="left">Hey 👋</h1>
+<img src="./Linkedin Banner.jpg" alt="LinkedIn Banner" width="100%" />
+
+###
+
+<h1 align="left">👋 Hey</h1>
 
 ###
 
@@ -6,7 +10,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🚀 About me</h2>
 
 ###
 
@@ -14,7 +18,7 @@
 
 ###
 
-<h2 align="left">Tech Stack</h2>
+<h2 align="left">🛠️ Tech Stack</h2>
 
 ###
 
@@ -60,11 +64,11 @@
 
 ###
 
-<h2 align="left">Let's Connect</h2>
+<h2 align="left">📫 Let's Connect</h2>
 
 ###
 
-<p align="left">Email: Gab.anderson7779@gmail.com<br>LinkedIn: linkedin.com/in/gabriel-anderson777<br>Location: Jakarta, Indonesia</p>
+<p align="left">📧 Email: Gab.anderson7779@gmail.com<br>💼 LinkedIn: linkedin.com/in/gabriel-anderson777<br>📍 Location: Jakarta, Indonesia</p>
 
 ###
 
