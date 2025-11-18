@@ -1,4 +1,4 @@
-<img src="./Banner.png" alt="LinkedIn Banner" width="100%" />
+<img src="./banner.jpg" alt="LinkedIn Banner" width="100%" />
 
 ###
 
