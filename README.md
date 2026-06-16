@@ -1,14 +1,4 @@
-<img src="./Banner.png" alt="LinkedIn Banner" width="100%" />
-
-###
-
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=gamakagami&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</div>
-
-###
-
-<h1 align="left">👋 Hey</h1>
+<h1 align="left">Hello There!</h1>
 
 ###
 
@@ -16,11 +6,7 @@
 
 ###
 
-<h2 align="left">🚀 About me</h2>
-
-###
-
-<p align="left">✨ Currently creating scalable web applications and AI-powered solutions<br>📚 Currently learning advanced Docker orchestration and cloud architecture<br>🎯 Goals: Contributing to open-source projects and building impactful products<br>🎲 Fun fact: I increased client bookings by 50% with my first freelance project</p>
+<p align="left">✨ Currently creating scalable web applications and AI-powered solutions
 
 ###
 
